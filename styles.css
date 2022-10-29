@@ -1,3 +1,5 @@
+li {list-style-type: none;}
+
 .header {
     margin-top: 24px;
     text-align: center;
@@ -12,7 +14,8 @@
     font-weight: bold;
 }
 .block_text {
-    margin: 10px;
+    text-indent: 24px;
+    margin: 5px;
     margin-left: 36px;
     font-size: 18px;
 }
