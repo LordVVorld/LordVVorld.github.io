@@ -1,0 +1,29 @@
+
+.hooks-container {
+    padding: 70px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #374954;
+}
+
+.counter {
+    color: #fff;
+    font-size: 55px;
+    font-weight: 700;
+}
+
+.button {
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    font-weight: 700;
+    font-size: 30px;
+    color: #fff;
+    background-color: #6BBE92;
+    border: 0;
+}
+
+.button:not(:last-child) {
+    margin-right: 20px;
+}

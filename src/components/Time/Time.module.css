@@ -1,0 +1,12 @@
+.time-container {
+    margin-top: 40px;
+    padding: 50px;
+    text-align: center;
+    background-color: #374954;
+}
+
+.time {
+    color: #fff;
+    font-size: 50px;
+    font-weight: 700;
+}
